@@ -19,13 +19,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/mohy404/Home-Workout.git
+  git clone https://github.com/mohy404/Weather-App-Task.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Home-Workout
+  cd Weather-App-Task
 ```
 
 Install dependencies
